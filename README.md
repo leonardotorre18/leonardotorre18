@@ -20,7 +20,7 @@ Actualmente estoy estudiando la carrera de Ingeniería de Sistemas en la Univers
 
 ## ¿Tecnologías?
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=7df1e&labelColor=101010)
-![TypeScript](https://img.shields.io/badge/JavaScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=101010)
+![TypeScript](https://img.shields.io/badge/TypeScriptScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=101010)
 ![HTML](https://img.shields.io/badge/HTML-FF5F1F?style=for-the-badge&logo=HTML5&logoColor=FF5F1F&labelColor=101010)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-0066cc?style=for-the-badge&logo=CSS3&logoColor=0066cc&labelColor=101010)
