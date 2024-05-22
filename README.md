@@ -1,24 +1,18 @@
-# Soy Leonardo Torrealba, Programador Web
+<div style="display: flex; align-items: center; justify-content: center">
 
-<br>
+<h1 style="font-size: 4rem">Bienvenid@s a mi Github</h1>
 
-*Portafolio -->* [<a href="https://leonardotorre.netlify.app/">Clik Aquí</a>]
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2N0MW5tNnVmcXhlZmUydmFreG01em9scWNwZTVrbGk2Y2c5c2RkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" style="width: 30%; height: auto; max-width: 300px" alt="Pixel Coding Sticker by ArkusNexus">
 
-<br>
+</div>
 
-## ¿Quién soy?🤷‍♂️
-Me dedico al Desarrollo Web de forma autónoma🧑‍💻. Comencé en el mundo de la programación hace más de dos años. Actualmente me especializo en JavaScript y sus principales librerías. Soy apasionado al diseño Frontend moderno y Responsivo para todos los dispositivos💻📱, la creación de SPA's, y el código bien estructurado.
++3 años de experiencia creando sitios web interactivos y responsivos. Me especializo en el área Frontend y poseo sólidos conocimientos del lado del Backend. Actualmente desarrollo soluciones de software utilizando TypeScript, ReactJS, MongoDB, NodeJS, AWS y tecnologías relacionadas. Participo activamente como facilitador sobre cursos de Desarrollo web para el Instituto Alfa Carabobo.
 
-Trabajo bien en equipo, me esfuerzo constantemente💪, y siempre estoy dispuesto a aprender algo más...
 
-<br>
+## Habilidades
 
-## ¿Estudios?📕🖋
-Actualmente estoy estudiando la carrera de Ingeniería de Sistemas en la Universidad Nacional Abierta🎓 de mi país. Aunque una opinión muy popular es pensar que la universidad es innecesaria para aprender a programar, considero que el aporte que he recibido como estudiante ha sido de gran importancia📖. Destaco el trabajo en conjunto con mis compañeros de estudio, la resolución de problemas en equipo, y la disciplina y constancia al estudiar. Todos son aspectos que difícilmente se adquieren si ayuda.📈📊
+<div style="display: grid; gap: 12px; align-items: center">
 
-<br>
-
-## ¿Tecnologías?
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=7df1e&labelColor=101010)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=101010)
 ![HTML](https://img.shields.io/badge/HTML-FF5F1F?style=for-the-badge&logo=HTML5&logoColor=FF5F1F&labelColor=101010)
@@ -37,14 +31,10 @@ Actualmente estoy estudiando la carrera de Ingeniería de Sistemas en la Univers
 ![Threejs](https://img.shields.io/badge/Threejs-fff?style=for-the-badge&logo=three.js&logoColor=000&labelColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-181818?style=for-the-badge&logo=figma&logoColor=FE4D13&labelColor=181818)
 
-<br>
+</div>
 
-## ¿Inglés?🇺🇸
+<div style="display: flex; justify-content: center">
 
-My English proficiency is A2. I can hold a conversation, speak slowly and write. I'm trying to be better
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardotorre18&layout=compact&theme=gotham)
 
-<br>
-
-## ¿Algo más?
-![Photoshop](https://img.shields.io/badge/Photoshop-001C25?style=for-the-badge&logo=adobephotoshop&logoColor=001C25&labelColor=00C2F7)
-![illustrator](https://img.shields.io/badge/illustrator-310000?style=for-the-badge&logo=adobeillustrator&logoColor=310000&labelColor=F79500)
+</div>
